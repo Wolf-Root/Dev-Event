@@ -123,7 +123,7 @@
     @apply text-gradient text-6xl font-semibold max-sm:text-4xl;
   }
 
-  h3 {
+  h2 {
     @apply font-schibsted-grotesk text-2xl font-bold;
   }
 
